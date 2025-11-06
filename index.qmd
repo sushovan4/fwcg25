@@ -3,7 +3,7 @@ title: "<span class='pref'>Vietoris--Rips Shadow for</span>Geometric Graph Recon
 title-slide-attributes: 
   data-background-image: "drawing.png"
   data-background-opacity: "0.3"
-subtitle: <green>Tulane University, 2025</green>
+subtitle: <green>Fall Workshop on Computational Geometry, 2025</green>
 author: "<b>Sushovan Majhi</b>, *George Washington University, DC*"
 fig-cap-location: bottom
 callout-icon: false
