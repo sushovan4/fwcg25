@@ -21,7 +21,7 @@ editor:
 html-math-method: mathml
 ---
 
-## Shape Reconstruction {.smaller}
+## The Problem of Shape Reconstruction {.smaller}
 
 - <green>**Shape**</green>: A *Shape* is modeled as a metric space
   - <gray>Abstract & Euclidean Riemannian manifolds</gray> [@MajhiLatschev]
